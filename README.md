@@ -1,11 +1,11 @@
-### Namaste, I am Shivam Srivastava &nbsp;  <img src="https://i.imgur.com/Z9tpbK5.png" alt="theshivamlko" height=50  /> 
+### Namaste, I am Shivam Srivastava &nbsp;  <img src="https://i.imgur.com/Z9tpbK5.png" alt="theshivamlko" height=40  /> 
 
  
 - 💼 **Mobile Solution Architect**@<a href="https://enrichai.com/">EnrichAI.com<a/>, **Founder**@<a href="https://navoki.com/">Navoki.com<a/>, Entrepreneur
 - 💻 Currently learning GoLang.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/c/navoki).
 - 🎥 I’m looking for help with **Video Editing**.
-- 💬 Ask me about *Flutter/Dart* on <a href="https://discord.gg/uU6XPkA">Navoki Discord<a/>
+- 📬 Ask me about *Flutter/Dart* on <a href="https://discord.gg/uU6XPkA">Navoki Discord<a/>
 - 🏄 Hobbies: Coding , Sketching, Gaming, Exploring
 
 ## Languages and Tools:  
@@ -49,11 +49,7 @@
 
 ## Website:
 
-<a href="https://navoki.com">
-<img height="50" src="https://i.imgur.com/p0KyUvS.png">
-</a> <a href="https://blog.udacity.com/2019/06/life-as-a-udacity-student-shivam-srivastava.html">
-Navoki.com
-</a>
+<a href="https://navoki.com"><img height="50" src="https://i.imgur.com/p0KyUvS.png">Navoki.com</a>
 
 ## Featured:
 
