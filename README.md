@@ -17,7 +17,7 @@
 <img height="50" src="https://i.imgur.com/6u5t9qS.png">
 </a>
 <a href="https://developer.android.com/studio">
-<img height="50" src="https://i.imgur.com/XUThfRt.png">
+<img height="50" src="https://i.imgur.com/cekERry.png">
 </a>
 <a href="https://kotlinlang.org/">
 <img height="50" src="https://i.imgur.com/r5F4nls.png">
@@ -47,6 +47,19 @@
 <img height="50" src="https://i.imgur.com/1zCBIbi.png">
 </a>
 
+## Website:
+
+<a href="https://navoki.com">
+<img height="50" src="https://i.imgur.com/p0KyUvS.png">
+</a> <a href="https://blog.udacity.com/2019/06/life-as-a-udacity-student-shivam-srivastava.html">
+Navoki.com
+</a>
+
+## Featured:
+
+<a href="https://blog.udacity.com/2019/06/life-as-a-udacity-student-shivam-srivastava.html">
+UDACITY.com
+</a>
 
 ## Pinned Repo:
 
