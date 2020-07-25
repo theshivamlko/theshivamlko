@@ -26,9 +26,10 @@
 <img height="50" src="https://i.imgur.com/H1f2hkd.png">
 </a>
 
+## Reach me:
 
 <a href="https://www.youtube.com/channel/UCP2-MYtIbBnlEcfTvJKo5Og?sub_confirmation=1">
-<img height="50" src="https://i.imgur.com/iSIKA6o.png">
+<img height="40" src="https://i.imgur.com/iSIKA6o.png">
 </a>
 <a href="https://twitter.com/theshivamlko">
 <img height="50" src="https://i.imgur.com/Z9xbaFX.png">
@@ -45,5 +46,20 @@
 <a href="http://instagram.com/theshivamlko">
 <img height="50" src="https://i.imgur.com/1zCBIbi.png">
 </a>
- 
+
+
+## Pinned Repo:
+
+<a href="https://github.com/theshivamlko/navoki_notes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theshivamlko&repo=navoki_notes&theme=dark" />
+</a>
+  
+<a href="https://github.com/theshivamlko/rulers_flutter_package">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theshivamlko&repo=rulers_flutter_package&theme=dark" />
+</a>
+
+
+<!-- <a href="https://github.com/theshivamlko">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=theshivamlko&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats"/>
+</a> -->
  
