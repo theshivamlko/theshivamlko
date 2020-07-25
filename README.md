@@ -64,11 +64,11 @@ UDACITY.com
 ## Pinned Repo:
 
 <a href="https://github.com/theshivamlko/navoki_notes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theshivamlko&repo=navoki_notes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theshivamlko&repo=navoki_notes&theme=dark" />
 </a>
   
 <a href="https://github.com/theshivamlko/rulers_flutter_package">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theshivamlko&repo=rulers_flutter_package" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theshivamlko&repo=rulers_flutter_package&theme=dark" />
 </a>
 
 ## Arts:
