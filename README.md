@@ -5,7 +5,7 @@
 - 💻 Currently learning GoLang.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/c/navoki).
 - 🎥 I’m looking for help with **Video Editing**.
-- 📬 Ask me about *Flutter/Dart* on <a href="https://discord.gg/uU6XPkA">Navoki Discord<a/>
+- 📬 Ask me about *Flutter/Dart* on <a href="https://discord.gg/uU6XPkA">Navoki Discord<a/> or <a href="https://www.youtube.com/c/navoki">Youtube</a>
 - 🏄 Hobbies: Coding , Sketching, Gaming, Exploring
 
 ## Languages and Tools:  
