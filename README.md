@@ -49,7 +49,7 @@
 
 ## Website:
 
-<a href="https://navoki.com"><img height="50" src="https://i.imgur.com/p0KyUvS.png">Navoki.com</a>
+<a href="https://navoki.com"><img height="50" src="https://i.imgur.com/Qbox7yw.png"></a>
 
 ## Featured:
 
