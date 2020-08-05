@@ -40,9 +40,6 @@
 <a href="https://navoki.com">
 <img height="50" src="https://i.imgur.com/p0KyUvS.png">
 </a>
-<a href="https://www.facebook.com/theshivamlko">
-<img height="50" src="https://i.imgur.com/SwesUic.png">
-</a>
 <a href="http://instagram.com/theshivamlko">
 <img height="50" src="https://i.imgur.com/1zCBIbi.png">
 </a>
@@ -55,6 +52,7 @@
 
 <a href="https://blog.udacity.com/2019/06/life-as-a-udacity-student-shivam-srivastava.html">
 UDACITY.com
+ 
 </a>
 </br>
 
