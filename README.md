@@ -84,6 +84,12 @@ UDACITY.com
 <a href="https://www.youtube.com/watch?v=ixj0MMusDM8">
 <img height="200" src="http://i3.ytimg.com/vi/ixj0MMusDM8/mqdefault.jpg"> 
 </a>
+<a href="https://www.youtube.com/watch?v=WCg9wIVKo7Y">
+<img height="200" src="http://i3.ytimg.com/vi/WCg9wIVKo7Y/mqdefault.jpg"> 
+</a>
+<a href="https://www.youtube.com/watch?v=LNsEn6MM34A">
+<img height="200" src="http://i3.ytimg.com/vi/LNsEn6MM34A/mqdefault.jpg"> 
+</a>
 <!-- <a href="https://github.com/theshivamlko">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=theshivamlko&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats"/>
 </a> -->
