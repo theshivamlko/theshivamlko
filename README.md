@@ -75,6 +75,9 @@ UDACITY.com
 <a href="https://www.youtube.com/watch?v=3EHNNi9KWoU">
 <img height="200" src="http://i3.ytimg.com/vi/3EHNNi9KWoU/mqdefault.jpg"> 
 </a>
+<a href="https://www.youtube.com/watch?v=WCg9wIVKo7Y">
+<img height="200" src="http://i3.ytimg.com/vi/WCg9wIVKo7Y/mqdefault.jpg"> 
+</a>
 <a href="https://www.youtube.com/watch?v=2yMfITB9lis">
 <img height="200" src="http://i3.ytimg.com/vi/2yMfITB9lis/mqdefault.jpg"> 
 </a>
@@ -83,9 +86,6 @@ UDACITY.com
 </a>
 <a href="https://www.youtube.com/watch?v=ixj0MMusDM8">
 <img height="200" src="http://i3.ytimg.com/vi/ixj0MMusDM8/mqdefault.jpg"> 
-</a>
-<a href="https://www.youtube.com/watch?v=WCg9wIVKo7Y">
-<img height="200" src="http://i3.ytimg.com/vi/WCg9wIVKo7Y/mqdefault.jpg"> 
 </a>
 <a href="https://www.youtube.com/watch?v=LNsEn6MM34A">
 <img height="200" src="http://i3.ytimg.com/vi/LNsEn6MM34A/mqdefault.jpg"> 
