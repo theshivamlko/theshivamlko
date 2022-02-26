@@ -5,7 +5,7 @@
 - 💻 Currently learning GoLang.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/c/navoki).
 - 🎥 I’m looking for help with **Video Editing**.
-- 📬 Ask me about *Flutter/Dart* on <a href="https://discord.gg/uU6XPkA">Navoki Discord<a/> or <a href="https://www.youtube.com/c/navoki">Youtube</a>
+- 📬 Ask me about *Flutter/Dart* <a href="https://www.youtube.com/c/navoki">Youtube</a>
 - 🏄 Hobbies: Coding , Sketching, Gaming, Exploring
 
 ## Languages and Tools:  
@@ -19,9 +19,9 @@
 <a href="https://developer.android.com/studio">
 <img height="50" src="https://i.imgur.com/cekERry.png">
 </a>
-<a href="https://kotlinlang.org/">
+<!--<a href="https://kotlinlang.org/">
 <img height="50" src="https://i.imgur.com/r5F4nls.png">
-</a>
+</a>-->
 <a href="https://golang.org/">
 <img height="50" src="https://i.imgur.com/H1f2hkd.png">
 </a>
@@ -51,8 +51,8 @@
 ## Featured:
 
 <a href="https://blog.udacity.com/2019/06/life-as-a-udacity-student-shivam-srivastava.html">
-UDACITY.com
- 
+Featured on UDACITY
+ </br>
 </a>
 </br>
 
