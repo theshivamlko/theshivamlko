@@ -51,12 +51,12 @@
 ## Featured:
 
 <a href="https://blog.udacity.com/2019/06/life-as-a-udacity-student-shivam-srivastava.html">
-Featured on UDACITY
+<a href="https://imgur.com/74ZLrKJ"><img src="https://i.imgur.com/74ZLrKJ.png" height="60" title="source: imgur.com" /></a>
  </br>
 </a>
 </br>
 
-[![Image](https://i.imgur.com/Z7qKuho.png)](https://play.google.com/store/apps/details?id=com.navoki.keepapp)  [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/navoki-notes)
+<!-- [![Image](https://i.imgur.com/Z7qKuho.png)](https://play.google.com/store/apps/details?id=com.navoki.keepapp)  [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/navoki-notes) -->
 ## Pinned Repo:
 
 <a href="https://github.com/theshivamlko/navoki_notes">
