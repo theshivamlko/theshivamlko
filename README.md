@@ -28,19 +28,19 @@
 
 ## Reach me:
 
+ <a href="https://www.linkedin.com/in/theshivamlko/">
+<img height="50" src="https://i.imgur.com/Xl6rwnA.png">
+</a>
 <a href="https://www.youtube.com/channel/UCP2-MYtIbBnlEcfTvJKo5Og?sub_confirmation=1">
 <img height="40" src="https://i.imgur.com/iSIKA6o.png">
+</a>
+ <a href="https://navoki.com">
+<img height="40" src="https://i.imgur.com/p0KyUvS.png">
 </a>
 <a href="https://twitter.com/theshivamlko">
 <img height="50" src="https://i.imgur.com/Z9xbaFX.png">
 </a>
-<a href="https://www.linkedin.com/in/theshivamlko/">
-<img height="50" src="https://i.imgur.com/Xl6rwnA.png">
-</a>
-<a href="https://navoki.com">
-<img height="50" src="https://i.imgur.com/p0KyUvS.png">
-</a>
-<a href="http://instagram.com/theshivamlko">
+<a href="http://instagram.com/navokitech">
 <img height="50" src="https://i.imgur.com/1zCBIbi.png">
 </a>
 
@@ -66,6 +66,14 @@
 <a href="https://github.com/theshivamlko/rulers_flutter_package">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theshivamlko&repo=rulers_flutter_package&theme=dark" />
 </a>
+
+</br>
+</br>
+</br>
+<a href="https://github.com/theshivamlko/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=theshivamlko&count_private=true&show_icons=true&theme=radical)](https://github.com/theshivamlko/github-readme-stats" alt="THESHIVAMLKO GitHub stats" />
+</a>
+
 
 ## Arts:
 
