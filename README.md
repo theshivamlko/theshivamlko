@@ -22,9 +22,9 @@
 <!--<a href="https://kotlinlang.org/">
 <img height="50" src="https://i.imgur.com/r5F4nls.png">
 </a>-->
-<a href="https://golang.org/">
+<!-- <a href="https://golang.org/">
 <img height="50" src="https://i.imgur.com/H1f2hkd.png">
-</a>
+</a> -->
 
 ## Reach me:
 
