@@ -51,7 +51,7 @@
 ## Featured:
 
 <a href="https://blog.udacity.com/2019/06/life-as-a-udacity-student-shivam-srivastava.html">
-<a href="https://imgur.com/74ZLrKJ"><img src="https://i.imgur.com/74ZLrKJ.png" height="60" title="source: imgur.com" /></a>
+<a href="https://blog.udacity.com/2019/06/life-as-a-udacity-student-shivam-srivastava.html"><img src="https://i.imgur.com/74ZLrKJ.png" height="60" title="source: imgur.com" /></a>
  </br>
 </a>
 </br>
