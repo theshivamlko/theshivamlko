@@ -3,8 +3,6 @@
  
 - 💼 **Senior Flutter Developer**@<a href="https://enrichai.com/">EnrichAI.com<a/>, 7 years Android, 5 years Flutter, **Founder**@<a href="https://navoki.com/">Navoki.com<a/>, Entrepreneur
 - 💻 Currently learning Kotlin.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/c/navoki).
-- 🎥 I’m looking for help with **Video Editing**.
 - 📬 Ask me about *Flutter/Dart* <a href="https://www.youtube.com/c/navoki">Youtube</a>
 - 🏄 Hobbies: Coding , Sketching, Gaming, Exploring
 
@@ -19,9 +17,9 @@
 <a href="https://developer.android.com/studio">
 <img height="50" src="https://i.imgur.com/cekERry.png">
 </a>
-<!--<a href="https://kotlinlang.org/">
+<a href="https://kotlinlang.org/">
 <img height="50" src="https://i.imgur.com/r5F4nls.png">
-</a>-->
+</a>
 <!-- <a href="https://golang.org/">
 <img height="50" src="https://i.imgur.com/H1f2hkd.png">
 </a> -->
@@ -48,7 +46,7 @@
 
 <a href="https://navoki.com"><img height="50" src="https://i.imgur.com/Qbox7yw.png"></a>
 
-## Featured:
+## Featured On:
 
 <a href="https://blog.udacity.com/2019/06/life-as-a-udacity-student-shivam-srivastava.html">
 <a href="https://blog.udacity.com/2019/06/life-as-a-udacity-student-shivam-srivastava.html"><img src="https://i.imgur.com/74ZLrKJ.png" height="60" title="source: imgur.com" /></a>
