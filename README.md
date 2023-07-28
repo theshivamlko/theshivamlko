@@ -5,6 +5,7 @@
 - 💻 Currently learning Kotlin.
 - 📬 Ask me about *Flutter/Dart* <a href="https://www.youtube.com/c/navoki">Youtube</a>
 - 🏄 Hobbies: Coding , Sketching, Gaming, Exploring
+- <a href="https://drive.google.com/file/d/1Z1DyW2z7hAuviB2YhMPnYezGu5-SLsbf/view?usp=sharing">Resume</a>
 
 ## Languages and Tools:  
 
@@ -25,8 +26,10 @@
 </a> -->
 
 ## Reach me:
-
- <a href="https://www.linkedin.com/in/theshivamlko/">
+<a href="http://linktr.ee/theshivamlko">
+<img height="40" src="https://i.imgur.com/8nsr66Q.png">
+</a>
+<a href="https://www.linkedin.com/in/theshivamlko/">
 <img height="50" src="https://i.imgur.com/Xl6rwnA.png">
 </a>
 <a href="https://www.youtube.com/channel/UCP2-MYtIbBnlEcfTvJKo5Og?sub_confirmation=1">
