@@ -1,7 +1,7 @@
 ### Namaste, I am Shivam Srivastava &nbsp;  <img src="https://i.imgur.com/Z9tpbK5.png" alt="theshivamlko" height=40  /> 
 
  
-- 💼 **Senior Flutter Developer**@<a href="https://enrichai.com/">EnrichAI.com<a/>, 7 years Android, 5 years Flutter, **Founder**@<a href="https://navoki.com/">Navoki.com<a/>, Entrepreneur
+- 💼 **Senior Flutter Developer**@<a href="https://enrichai.com/">EnrichAI.com<a/>, 7 years Android, 5 years Flutter, **Founder**@<a href="https://navoki.com/">Navoki.com<a/>
 - 💻 Currently learning Kotlin.
 - 📬 Ask me about *Flutter/Dart* <a href="https://www.youtube.com/c/navoki">Youtube</a>
 - 🏄 Hobbies: Coding , Sketching, Gaming, Exploring
