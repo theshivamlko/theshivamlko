@@ -5,7 +5,7 @@
 - 💻 Currently learning Kotlin.
 - 📬 Ask me about *Flutter/Dart* <a href="https://www.youtube.com/c/navoki">Youtube</a>
 - 🏄 Hobbies: Coding , Sketching, Gaming, Exploring
-- <a href="https://drive.google.com/file/d/1Z1DyW2z7hAuviB2YhMPnYezGu5-SLsbf/view?usp=sharing">Resume</a>
+- <a href="https://linktr.ee/theshivamlko">LinkTree</a>
 
 ## Languages and Tools:  
 
