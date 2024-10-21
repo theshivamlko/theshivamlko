@@ -49,6 +49,14 @@
 
 <a href="https://navoki.com"><img height="50" src="https://i.imgur.com/Qbox7yw.png"></a>
 
+## Certificates:
+
+<a href="https://www.credly.com/go/la2j6Jf6"><img height="150" src="https://i.imgur.com/weTzcwq.png"></a>
+<a href="https://developers.google.com/certification/directory/play"><img height="150" src="https://i.imgur.com/n0vfCgx.png"></a>
+
+
+
+
 ## Featured On:
 
 <a href="https://blog.udacity.com/2019/06/life-as-a-udacity-student-shivam-srivastava.html">
