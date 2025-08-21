@@ -1,8 +1,8 @@
 ### Namaste, I am Shivam Srivastava &nbsp;  <img src="https://i.imgur.com/Z9tpbK5.png" alt="theshivamlko" height=40  /> 
 
  
-- 💼 Founder @Navoki, 9 years, Flutter Expert, Learning GenAi, **Founder**@<a href="https://navoki.com/">Navoki.com<a/>
-- 💻 Currently learning Kotlin.
+- 💼 Founder @Navoki, 9 years, Flutter Expert,  **Founder**@<a href="https://navoki.com/">Navoki.com<a/>
+- 💻 Currently learning GenAi.
 - 📬 Ask me about *Flutter/Dart* <a href="https://www.youtube.com/c/navoki">Youtube</a>
 - 🏄 Hobbies: Coding , Sketching, Gaming, Exploring
 - <a href="https://linktr.ee/theshivamlko">LinkTree</a>
@@ -51,6 +51,8 @@
 
 ## Certificates:
 
+<a href="https://www.credly.com/badges/ceb26d36-3aa7-4741-ad1b-d97161928b17/public_url"><img height="150" src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob"></a>
+<a href="https://www.credly.com/badges/98ad4861-fbc7-4c13-a27a-404e5ba10cb7/public_url"><img height="150" src="https://images.credly.com/images/51984979-f759-49f0-8bb3-5310d364fdbe/image.png"></a>
 <a href="https://www.credly.com/go/la2j6Jf6"><img height="150" src="https://i.imgur.com/weTzcwq.png"></a>
 <a href="https://developers.google.com/certification/directory/play"><img height="150" src="https://i.imgur.com/n0vfCgx.png"></a>
 
