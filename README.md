@@ -95,14 +95,14 @@
 <img height="200" src="https://i.imgur.com/YywkcS8.jpg">
 
 ## Recent Work 
-<a href="https://www.youtube.com/watch?v=ixj0MMusDM8">
-<img height="200" src="http://i3.ytimg.com/vi/ixj0MMusDM8/mqdefault.jpg"> 
+<a href="https://www.youtube.com/watch?v=omu_xt6PhrE">
+<img height="200" src="http://i3.ytimg.com/vi/omu_xt6PhrE/mqdefault.jpg"> 
 </a>
-<a href="https://www.youtube.com/watch?v=WCg9wIVKo7Y">
-<img height="200" src="http://i3.ytimg.com/vi/WCg9wIVKo7Y/mqdefault.jpg"> 
+<a href="https://www.youtube.com/watch?v=iQgMJy5logk">
+<img height="200" src="http://i3.ytimg.com/vi/iQgMJy5logk/mqdefault.jpg"> 
 </a>
-<a href="https://www.youtube.com/watch?v=LNsEn6MM34A">
-<img height="200" src="http://i3.ytimg.com/vi/LNsEn6MM34A/mqdefault.jpg"> 
+<a href="https://www.youtube.com/watch?v=1gReS475YJw">
+<img height="200" src="http://i3.ytimg.com/vi/1gReS475YJw/mqdefault.jpg"> 
 </a>
 <a href="https://www.youtube.com/watch?v=3EHNNi9KWoU">
 <img height="200" src="http://i3.ytimg.com/vi/3EHNNi9KWoU/mqdefault.jpg"> 
