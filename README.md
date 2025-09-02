@@ -9,43 +9,27 @@
 
 ## Languages and Tools:  
 
-<a href="https://flutter.dev/">
-<img height="50" src="https://i.imgur.com/GFan2rb.png">
-</a>
-<a href="https://dart.dev/">
-<img height="50" src="https://i.imgur.com/6u5t9qS.png">
-</a>
-<a href="https://developer.android.com/studio">
-<img height="50" src="https://i.imgur.com/cekERry.png">
-</a>
-<a href="https://kotlinlang.org/">
-<img height="50" src="https://i.imgur.com/r5F4nls.png">
-</a>
+<img height="50" src="https://i.imgur.com/GFan2rb.png"> <img height="50" src="https://i.imgur.com/6u5t9qS.png"> <img height="50" src="https://i.imgur.com/cekERry.png"> <img height="50" src="https://i.imgur.com/r5F4nls.png"> <img height="50" src="https://www.python.org/static/favicon.ico">  <img height="50" src="https://ph-files.imgix.net/35b92c0d-5cc6-499a-b2cf-9d25d3e9538b.png?auto=format"> 
+
 <!-- <a href="https://golang.org/">
 <img height="50" src="https://i.imgur.com/H1f2hkd.png">
 </a> -->
 
-## Reach me:
-<a href="http://linktr.ee/theshivamlko">
-<img height="40" src="https://i.imgur.com/8nsr66Q.png">
+
+## Pinned Repo:
+
+<a href="https://github.com/theshivamlko/flutter_firebase_ai_logic_ai_agents">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theshivamlko&repo=flutter_firebase_ai_logic_ai_agents&theme=dark" />
 </a>
-<a href="https://www.linkedin.com/in/theshivamlko/">
-<img height="50" src="https://i.imgur.com/Xl6rwnA.png">
+  
+<a href="https://github.com/theshivamlko/navoki_notes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theshivamlko&repo=navoki_notes&theme=dark" />
 </a>
-<a href="https://www.youtube.com/@Navoki?sub_confirmation=1">
-<img height="40" src="https://i.imgur.com/iSIKA6o.png">
+  
+<a href="https://github.com/theshivamlko/rulers_flutter_package">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theshivamlko&repo=rulers_flutter_package&theme=dark" />
 </a>
 
-<a href="https://x.com/theshivamlko">
-<img height="50" src="https://i.imgur.com/Z9xbaFX.png">
-</a>
-<a href="http://instagram.com/navokitech">
-<img height="50" src="https://i.imgur.com/1zCBIbi.png">
-</a>
-
-## Website:
-
-<a href="https://navoki.com"><img height="50" src="https://i.imgur.com/Qbox7yw.png"></a>
 
 ## Certificates:
 
@@ -55,20 +39,6 @@
 <a href="https://developers.google.com/certification/directory/play"><img height="150" src="https://i.imgur.com/n0vfCgx.png"></a>
 
 
-<!-- [![Image](https://i.imgur.com/Z7qKuho.png)](https://play.google.com/store/apps/details?id=com.navoki.keepapp)  [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/navoki-notes) -->
-## Pinned Repo:
-
-<a href="https://github.com/theshivamlko/navoki_notes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theshivamlko&repo=navoki_notes&theme=dark" />
-</a>
-  
-<a href="https://github.com/theshivamlko/rulers_flutter_package">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theshivamlko&repo=rulers_flutter_package&theme=dark" />
-</a>
-
-<a href="https://github.com/theshivamlko/cyberpunk_killer_flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theshivamlko&repo=cyberpunk_killer_flutter&theme=dark" />
-</a>
 
 </br>
 </br>
@@ -76,11 +46,6 @@
 <a href="https://github.com/theshivamlko/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=theshivamlko&count_private=true&show_icons=true&theme=radical)](https://github.com/theshivamlko/github-readme-stats" alt="THESHIVAMLKO GitHub stats" />
 </a>
-
-
-## Arts:
-
-<img height="200" src="https://i.imgur.com/YywkcS8.jpg">
 
 ## Recent Work 
 <a href="https://www.youtube.com/watch?v=omu_xt6PhrE">
@@ -103,6 +68,35 @@
 <img height="200" src="http://i3.ytimg.com/vi/LHOUJgN5_pc/mqdefault.jpg"> 
 </a>
 
+
+
+## Arts:
+
+<img height="200" src="https://i.imgur.com/YywkcS8.jpg">
+
+
+
+## Reach me:
+<a href="http://linktr.ee/theshivamlko">
+<img height="40" src="https://i.imgur.com/8nsr66Q.png">
+</a>
+<a href="https://www.linkedin.com/in/theshivamlko/">
+<img height="50" src="https://i.imgur.com/Xl6rwnA.png">
+</a>
+<a href="https://www.youtube.com/@Navoki?sub_confirmation=1">
+<img height="40" src="https://i.imgur.com/iSIKA6o.png">
+</a>
+
+<a href="https://x.com/theshivamlko">
+<img height="50" src="https://i.imgur.com/Z9xbaFX.png">
+</a>
+<a href="http://instagram.com/navokitech">
+<img height="50" src="https://i.imgur.com/1zCBIbi.png">
+</a>
+
+## Website:
+
+<a href="https://navoki.com"><img height="50" src="https://i.imgur.com/Qbox7yw.png"></a>
 
 <!-- <a href="https://github.com/theshivamlko">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=theshivamlko&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats"/>
