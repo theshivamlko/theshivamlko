@@ -1,11 +1,11 @@
 ### Namaste, I am Shivam Srivastava &nbsp;  <img src="https://i.imgur.com/Z9tpbK5.png" alt="theshivamlko" height=40  /> 
 
  
-- 💼 Founder @Navoki, 9 years, Flutter Expert,  **Founder**@<a href="https://navoki.com/">Navoki.com<a/>
+- 💼 Founder @Navoki, 9 years, Flutter Expert
 - 💻 Currently learning GenAi.
-- 📬 Ask me about *Flutter/Dart* <a href="https://www.youtube.com/c/navoki">Youtube</a>
+- 📬 Ask me about *Flutter/Dart*
+- Subscribe <a href="https://www.youtube.com/c/navoki">Youtube</a>
 - 🏄 Hobbies: Coding , Sketching, Gaming, Exploring
-- <a href="https://linktr.ee/theshivamlko">LinkTree</a>
 
 ## Languages and Tools:  
 
@@ -32,13 +32,11 @@
 <a href="https://www.linkedin.com/in/theshivamlko/">
 <img height="50" src="https://i.imgur.com/Xl6rwnA.png">
 </a>
-<a href="https://www.youtube.com/channel/UCP2-MYtIbBnlEcfTvJKo5Og?sub_confirmation=1">
+<a href="https://www.youtube.com/@Navoki?sub_confirmation=1">
 <img height="40" src="https://i.imgur.com/iSIKA6o.png">
 </a>
- <a href="https://navoki.com">
-<img height="40" src="https://i.imgur.com/p0KyUvS.png">
-</a>
-<a href="https://twitter.com/theshivamlko">
+
+<a href="https://x.com/theshivamlko">
 <img height="50" src="https://i.imgur.com/Z9xbaFX.png">
 </a>
 <a href="http://instagram.com/navokitech">
@@ -56,16 +54,6 @@
 <a href="https://www.credly.com/go/la2j6Jf6"><img height="150" src="https://i.imgur.com/weTzcwq.png"></a>
 <a href="https://developers.google.com/certification/directory/play"><img height="150" src="https://i.imgur.com/n0vfCgx.png"></a>
 
-
-
-
-## Featured On:
-
-<a href="https://blog.udacity.com/2019/06/life-as-a-udacity-student-shivam-srivastava.html">
-<a href="https://blog.udacity.com/2019/06/life-as-a-udacity-student-shivam-srivastava.html"><img src="https://i.imgur.com/74ZLrKJ.png" height="60" title="source: imgur.com" /></a>
- </br>
-</a>
-</br>
 
 <!-- [![Image](https://i.imgur.com/Z7qKuho.png)](https://play.google.com/store/apps/details?id=com.navoki.keepapp)  [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/navoki-notes) -->
 ## Pinned Repo:
