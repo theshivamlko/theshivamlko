@@ -9,7 +9,10 @@
 
 ## Languages and Tools:  
 
-<img height="50" src="https://i.imgur.com/GFan2rb.png"> <img height="50" src="https://i.imgur.com/6u5t9qS.png"> <img height="50" src="https://i.imgur.com/cekERry.png"> <img height="50" src="https://i.imgur.com/r5F4nls.png"> <img height="50" src="https://www.python.org/static/favicon.ico">  <img height="50" src="https://ph-files.imgix.net/35b92c0d-5cc6-499a-b2cf-9d25d3e9538b.png?auto=format"> 
+<img height="50" src="https://i.imgur.com/GFan2rb.png"> <img height="50" src="https://i.imgur.com/6u5t9qS.png"> <img height="50" src="https://i.imgur.com/cekERry.png"> <img height="50" src="https://i.imgur.com/r5F4nls.png">  </br>
+<img height="50" src="https://www.python.org/static/favicon.ico">  <img height="50" src="https://ph-files.imgix.net/35b92c0d-5cc6-499a-b2cf-9d25d3e9538b.png?auto=format">  <img height="50" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png">  </br>
+<img height="40" src="https://www.gstatic.com/devrel-devsite/prod/v8a38e499423b6e64664446c6bb8c3f06d3bbb8c3153ec81b5cfa22b086049d9c/firebase/images/lockup.svg">  <img height="40" src="https://i0.wp.com/oksala.net/wp-content/uploads/2022/06/image-6.png?fit=1024%2C536&ssl=1">    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/2560px-Google_Gemini_logo.svg.png">
+
 
 <!-- <a href="https://golang.org/">
 <img height="50" src="https://i.imgur.com/H1f2hkd.png">
