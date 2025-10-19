@@ -2,7 +2,7 @@
 
  
 - 💼 Founder @Navoki, 9 years, Flutter Expert
-- 💻 Currently learning GenAi.
+- 💻 Exploring Generative Ai.
 - 📬 Ask me about *Flutter/Dart*
 - Subscribe <a href="https://www.youtube.com/c/navoki">Youtube</a>
 - 🏄 Hobbies: Coding , Sketching, Gaming, Exploring
