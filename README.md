@@ -2,10 +2,9 @@
 
  
 - 💼 Founder @Navoki, 9 years, Flutter Expert
-- 💻 Exploring Generative Ai.
-- 📬 Ask me about *Flutter/Dart*
+- 💻 Generative Ai, Agentic AI
 - Subscribe <a href="https://www.youtube.com/c/navoki">Youtube</a>
-- 🏄 Hobbies: Coding , Sketching, Gaming, Exploring
+- 🏄 Hobbies: Sketching, Gaming, Exploring
 
 ## Languages and Tools:  
 
@@ -21,14 +20,18 @@
 
 ## Pinned Repo:
 
+<a href="https://github.com/theshivamlko/flutter-ai-labs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theshivamlko&repo=flutter-ai-labs&theme=dark" />
+</a>
+   
 <a href="https://github.com/theshivamlko/flutter_firebase_ai_logic_ai_agents">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theshivamlko&repo=flutter_firebase_ai_logic_ai_agents&theme=dark" />
 </a>
-  
+    
 <a href="https://github.com/theshivamlko/navoki_notes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theshivamlko&repo=navoki_notes&theme=dark" />
 </a>
-  
+    
 <a href="https://github.com/theshivamlko/rulers_flutter_package">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theshivamlko&repo=rulers_flutter_package&theme=dark" />
 </a>
@@ -37,7 +40,7 @@
 ## Certificates:
 
 <a href="https://www.credly.com/badges/ceb26d36-3aa7-4741-ad1b-d97161928b17/public_url"><img height="150" src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob"></a>
-<a href="https://www.credly.com/badges/98ad4861-fbc7-4c13-a27a-404e5ba10cb7/public_url"><img height="150" src="https://images.credly.com/images/51984979-f759-49f0-8bb3-5310d364fdbe/image.png"></a>
+<a href="https://www.credly.com/badges/98ad4861-fbc7-4c13-a27a-404e5ba10cb7/public_url"><img height="150" src="https://images.credly.com/size/340x340/images/247efe36-9fa6-4209-ad56-0fd522283872/blob"></a>
 <a href="https://www.credly.com/go/la2j6Jf6"><img height="150" src="https://i.imgur.com/weTzcwq.png"></a>
 <a href="https://developers.google.com/certification/directory/play"><img height="150" src="https://i.imgur.com/n0vfCgx.png"></a>
 
