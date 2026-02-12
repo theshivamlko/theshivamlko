@@ -39,6 +39,8 @@
 
 ## Certificates:
 
+<a href="https://www.credly.com/badges/ceb26d36-3aa7-4741-ad1b-d97161928b17/public_url"><img height="150" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></a>
+
 <a href="https://www.credly.com/badges/ceb26d36-3aa7-4741-ad1b-d97161928b17/public_url"><img height="150" src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob"></a>
 <a href="https://www.credly.com/badges/98ad4861-fbc7-4c13-a27a-404e5ba10cb7/public_url"><img height="150" src="https://images.credly.com/size/340x340/images/247efe36-9fa6-4209-ad56-0fd522283872/blob"></a>
 <a href="https://www.credly.com/go/la2j6Jf6"><img height="150" src="https://i.imgur.com/weTzcwq.png"></a>
