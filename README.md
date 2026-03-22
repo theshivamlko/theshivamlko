@@ -56,24 +56,24 @@
 </a>
 
 ## Recent Work 
-<a href="https://www.youtube.com/watch?v=omu_xt6PhrE">
-<img height="200" src="http://i3.ytimg.com/vi/omu_xt6PhrE/mqdefault.jpg"> 
+<a href="https://www.youtube.com/watch?v=UFbdO-RmxUk">
+<img height="200" src="http://i3.ytimg.com/vi/UFbdO-RmxUk/mqdefault.jpg"> 
 </a>
 <a href="https://www.youtube.com/watch?v=iQgMJy5logk">
 <img height="200" src="http://i3.ytimg.com/vi/iQgMJy5logk/mqdefault.jpg"> 
 </a>
-<a href="https://www.youtube.com/watch?v=1gReS475YJw">
-<img height="200" src="http://i3.ytimg.com/vi/1gReS475YJw/mqdefault.jpg"> 
+<a href="https://www.youtube.com/watch?v=8liEtunRlms">
+<img height="200" src="http://i3.ytimg.com/vi/8liEtunRlms/mqdefault.jpg"> 
 </a>
-<a href="https://www.youtube.com/watch?v=3EHNNi9KWoU">
-<img height="200" src="http://i3.ytimg.com/vi/3EHNNi9KWoU/mqdefault.jpg"> 
+<a href="https://www.youtube.com/watch?v=eU0XX2eMA-Y">
+<img height="200" src="http://i3.ytimg.com/vi/eU0XX2eMA-Y/mqdefault.jpg"> 
 </a>
 
 <a href="https://www.youtube.com/watch?v=2yMfITB9lis">
 <img height="200" src="http://i3.ytimg.com/vi/2yMfITB9lis/mqdefault.jpg"> 
 </a>
-<a href="https://www.youtube.com/watch?v=LHOUJgN5_pc">
-<img height="200" src="http://i3.ytimg.com/vi/LHOUJgN5_pc/mqdefault.jpg"> 
+<a href="https://www.youtube.com/watch?v=t-WLDRrMDCY">
+<img height="200" src="http://i3.ytimg.com/vi/t-WLDRrMDCY/mqdefault.jpg"> 
 </a>
 
 
