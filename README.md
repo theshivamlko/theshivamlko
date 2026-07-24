@@ -20,21 +20,10 @@
 
 ## Pinned Repo:
 
-<a href="https://github.com/theshivamlko/flutter-ai-labs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theshivamlko&repo=flutter-ai-labs&theme=dark" />
-</a>
-   
-<a href="https://github.com/theshivamlko/flutter_firebase_ai_logic_ai_agents">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theshivamlko&repo=flutter_firebase_ai_logic_ai_agents&theme=dark" />
-</a>
-    
-<a href="https://github.com/theshivamlko/navoki_notes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theshivamlko&repo=navoki_notes&theme=dark" />
-</a>
-    
-<a href="https://github.com/theshivamlko/rulers_flutter_package">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theshivamlko&repo=rulers_flutter_package&theme=dark" />
-</a>
+<a href="https://github.com/theshivamlko/flutter-ai-labs"> Flutter Ai Labs </a>
+
+<a href="https://github.com/theshivamlko/flutter_firebase_ai_logic_ai_agents"> Flutter Firebase Ai Logic Ai Agent </a>
+
 
 
 ## Certificates:
